@@ -1,0 +1,14 @@
+{
+  "name": "csaproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getTitles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^40.0.0"
+  }
+}
